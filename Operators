@@ -1,0 +1,65 @@
+# Operators in python
+
+1) Arithmetic operators
+2) Assignment operators
+3) Comparison operators
+4) Logical operators
+5) Identity operators
+6) Membership operators
+7) Bitwise operators
+
+# Arithmetic Operator
+
+Arithmetic operators are used with numeric value to perform common mathematical operations
+
++
+-
+*
+/
+//
+%
+
+# Assignment Operators
+
+assignment operators are used to assign values to variable
++=
+-=
+*=
+/=
+//=
+%=
+**=
+
+# Comparison Operators
+
+comparison operators are use to compare two values
+
+>
+<
+>=
+<=
+!=
+==
+
+# Logical Operators
+
+logical operators are used to combine conditional statement
+
+and :- return true if both statements are true
+or  :- return true if one or more than one statements is true
+not :- Reverse the result, returns False if the result is true
+
+#  Identity operators
+
+Identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location
+
+is :- Returns True if both variables are the same object.
+is not :- Returns True if both variables are not the same object.
+
+# Membership Operators
+
+Membership operators are used to test if a sequence is presented in an object.
+
+in :- Returns True if a sequence with the specified value is present in the object
+not in :- Returns True if a sequence with the specified value is not present in the object
+
