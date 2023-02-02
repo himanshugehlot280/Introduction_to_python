@@ -1,0 +1,18 @@
+Range() Function
+but range is overloaded function in python that takes 1,2 or 3 arguments
+range function with 1 arguments when we will pass only single arguments with range function then
+it always treat as a condition (<) less than it always start loop variable by zero and
+always increments loop variable by one
+_________________________________________________________________________________________________________
+To loop through a set of code a specified no of times,we can use the range() function,
+the range() function returns a sequence of no, starting from 0 by default,
+and increment by 1(by default), and ends at a specified number
+
+Syntax
+range(start, stop, step)
+
+Parameter Values
+Parameter	Description
+start	    Optional. An integer number specifying at which position to start. Default is 0
+stop	    Required. An integer number specifying at which position to stop (not included).
+step	    Optional. An integer number specifying the incrementation. Default is 1

@@ -1,0 +1,20 @@
+Python Loops
+The following loops are available in Python to fulfil the looping needs.
+Python offers 3 choices for running the loops.
+The basic functionality of all the techniques is the same, although the syntax
+and the amount of time required for checking the condition differ.
+
+We can run a single statement or set of statements repeatedly using a loop command.
+
+The following sorts of loops are available in the Python programming language.
+----------------------------------------------------------------------------------------------------------------
+|Sr.No.	| Name of the loop |	Loop Type & Description
+|---------------------------------------------------------------------------------------------------------------
+|   1   |    While loop	   |   Repeats a statement or group of statements while a given condition is TRUE.
+|       |                  |   It tests the condition before executing the loop body.
+|---------------------------------------------------------------------------------------------------------------
+|   2	|    For loop	   |     This type of loop executes a code block multiple times and abbreviates the code
+|       |                  |   that manages the loop variable.
+|---------------------------------------------------------------------------------------------------------------
+|   3   |    Nested loops  |     We can iterate a loop inside another loop.
+----------------------------------------------------------------------------------------------------------------
