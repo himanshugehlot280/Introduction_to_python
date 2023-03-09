@@ -1,0 +1,7 @@
+Break Statement
+a break statement is used inside the both the while and for loop.
+it terminated the loop immediately and transfer execution to the new statement after  the loop.
+
+Continue Statement
+the continue statement causes the loop to skip its current execution at some point and move on to the next
+iteration, instead of terminating the loop like a break statement
